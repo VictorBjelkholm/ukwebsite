@@ -1,0 +1,53 @@
+body {
+	font-size: 12px;
+}
+
+div,p,span {
+	font-family: 'Roboto', sans-serif;
+}
+
+.uk-logotype img {
+	width: 960px;
+}
+
+.center {
+	text-align: center;
+}
+
+.color-bar {
+	background-color: #27ae60;
+	height: 1em;
+}
+.footer {
+	height: 10em;
+}
+.framer {
+	height: 333px;
+	width: 100%;
+}
+h1, h2, h3, h4 {
+	font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+	font-size: 500%;
+}
+h2 {
+	font-size: 400%;
+}
+h3 {
+	font-size: 300%;
+}
+h4 {
+	font-size: 200%;
+}
+
+ul,ol {
+	padding: 0;
+}
+ul {
+	list-style-type: none;
+}
+li {
+	line-height: 270%;
+}
